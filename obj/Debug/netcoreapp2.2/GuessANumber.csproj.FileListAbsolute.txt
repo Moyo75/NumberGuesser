@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\C# projects\Traversy\GuessANumber\bin\Debug\netcoreapp2.2\GuessANumber.deps.json
+C:\Users\USER\Documents\C# projects\Traversy\GuessANumber\bin\Debug\netcoreapp2.2\GuessANumber.runtimeconfig.json
+C:\Users\USER\Documents\C# projects\Traversy\GuessANumber\bin\Debug\netcoreapp2.2\GuessANumber.runtimeconfig.dev.json
+C:\Users\USER\Documents\C# projects\Traversy\GuessANumber\bin\Debug\netcoreapp2.2\GuessANumber.dll
+C:\Users\USER\Documents\C# projects\Traversy\GuessANumber\bin\Debug\netcoreapp2.2\GuessANumber.pdb
+C:\Users\USER\Documents\C# projects\Traversy\GuessANumber\obj\Debug\netcoreapp2.2\GuessANumber.csprojAssemblyReference.cache
+C:\Users\USER\Documents\C# projects\Traversy\GuessANumber\obj\Debug\netcoreapp2.2\GuessANumber.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\C# projects\Traversy\GuessANumber\obj\Debug\netcoreapp2.2\GuessANumber.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\C# projects\Traversy\GuessANumber\obj\Debug\netcoreapp2.2\GuessANumber.AssemblyInfo.cs
+C:\Users\USER\Documents\C# projects\Traversy\GuessANumber\obj\Debug\netcoreapp2.2\GuessANumber.dll
+C:\Users\USER\Documents\C# projects\Traversy\GuessANumber\obj\Debug\netcoreapp2.2\GuessANumber.pdb
